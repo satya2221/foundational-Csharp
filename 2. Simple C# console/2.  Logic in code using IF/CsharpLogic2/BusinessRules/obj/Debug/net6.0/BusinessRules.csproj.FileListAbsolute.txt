@@ -1,0 +1,30 @@
+G:\onedrive\Work\apapun soal csharp dan NET\Belajar Lagi\2. C# dengan vscode microsoft\CsharpLogic2\BusinessRules\bin\Debug\net6.0\BusinessRules.exe
+G:\onedrive\Work\apapun soal csharp dan NET\Belajar Lagi\2. C# dengan vscode microsoft\CsharpLogic2\BusinessRules\bin\Debug\net6.0\BusinessRules.deps.json
+G:\onedrive\Work\apapun soal csharp dan NET\Belajar Lagi\2. C# dengan vscode microsoft\CsharpLogic2\BusinessRules\bin\Debug\net6.0\BusinessRules.runtimeconfig.json
+G:\onedrive\Work\apapun soal csharp dan NET\Belajar Lagi\2. C# dengan vscode microsoft\CsharpLogic2\BusinessRules\bin\Debug\net6.0\BusinessRules.dll
+G:\onedrive\Work\apapun soal csharp dan NET\Belajar Lagi\2. C# dengan vscode microsoft\CsharpLogic2\BusinessRules\bin\Debug\net6.0\BusinessRules.pdb
+G:\onedrive\Work\apapun soal csharp dan NET\Belajar Lagi\2. C# dengan vscode microsoft\CsharpLogic2\BusinessRules\obj\Debug\net6.0\BusinessRules.csproj.AssemblyReference.cache
+G:\onedrive\Work\apapun soal csharp dan NET\Belajar Lagi\2. C# dengan vscode microsoft\CsharpLogic2\BusinessRules\obj\Debug\net6.0\BusinessRules.GeneratedMSBuildEditorConfig.editorconfig
+G:\onedrive\Work\apapun soal csharp dan NET\Belajar Lagi\2. C# dengan vscode microsoft\CsharpLogic2\BusinessRules\obj\Debug\net6.0\BusinessRules.AssemblyInfoInputs.cache
+G:\onedrive\Work\apapun soal csharp dan NET\Belajar Lagi\2. C# dengan vscode microsoft\CsharpLogic2\BusinessRules\obj\Debug\net6.0\BusinessRules.AssemblyInfo.cs
+G:\onedrive\Work\apapun soal csharp dan NET\Belajar Lagi\2. C# dengan vscode microsoft\CsharpLogic2\BusinessRules\obj\Debug\net6.0\BusinessRules.csproj.CoreCompileInputs.cache
+G:\onedrive\Work\apapun soal csharp dan NET\Belajar Lagi\2. C# dengan vscode microsoft\CsharpLogic2\BusinessRules\obj\Debug\net6.0\BusinessRules.dll
+G:\onedrive\Work\apapun soal csharp dan NET\Belajar Lagi\2. C# dengan vscode microsoft\CsharpLogic2\BusinessRules\obj\Debug\net6.0\refint\BusinessRules.dll
+G:\onedrive\Work\apapun soal csharp dan NET\Belajar Lagi\2. C# dengan vscode microsoft\CsharpLogic2\BusinessRules\obj\Debug\net6.0\BusinessRules.pdb
+G:\onedrive\Work\apapun soal csharp dan NET\Belajar Lagi\2. C# dengan vscode microsoft\CsharpLogic2\BusinessRules\obj\Debug\net6.0\BusinessRules.genruntimeconfig.cache
+G:\onedrive\Work\apapun soal csharp dan NET\Belajar Lagi\2. C# dengan vscode microsoft\CsharpLogic2\BusinessRules\obj\Debug\net6.0\ref\BusinessRules.dll
+G:\onedrive\Work\apapun soal csharp dan NET\Belajar Lagi\2. C# dengan vscode microsoft\2.  Logic in code using IF\CsharpLogic2\BusinessRules\bin\Debug\net6.0\BusinessRules.exe
+G:\onedrive\Work\apapun soal csharp dan NET\Belajar Lagi\2. C# dengan vscode microsoft\2.  Logic in code using IF\CsharpLogic2\BusinessRules\bin\Debug\net6.0\BusinessRules.deps.json
+G:\onedrive\Work\apapun soal csharp dan NET\Belajar Lagi\2. C# dengan vscode microsoft\2.  Logic in code using IF\CsharpLogic2\BusinessRules\bin\Debug\net6.0\BusinessRules.runtimeconfig.json
+G:\onedrive\Work\apapun soal csharp dan NET\Belajar Lagi\2. C# dengan vscode microsoft\2.  Logic in code using IF\CsharpLogic2\BusinessRules\bin\Debug\net6.0\BusinessRules.dll
+G:\onedrive\Work\apapun soal csharp dan NET\Belajar Lagi\2. C# dengan vscode microsoft\2.  Logic in code using IF\CsharpLogic2\BusinessRules\bin\Debug\net6.0\BusinessRules.pdb
+G:\onedrive\Work\apapun soal csharp dan NET\Belajar Lagi\2. C# dengan vscode microsoft\2.  Logic in code using IF\CsharpLogic2\BusinessRules\obj\Debug\net6.0\BusinessRules.csproj.AssemblyReference.cache
+G:\onedrive\Work\apapun soal csharp dan NET\Belajar Lagi\2. C# dengan vscode microsoft\2.  Logic in code using IF\CsharpLogic2\BusinessRules\obj\Debug\net6.0\BusinessRules.GeneratedMSBuildEditorConfig.editorconfig
+G:\onedrive\Work\apapun soal csharp dan NET\Belajar Lagi\2. C# dengan vscode microsoft\2.  Logic in code using IF\CsharpLogic2\BusinessRules\obj\Debug\net6.0\BusinessRules.AssemblyInfoInputs.cache
+G:\onedrive\Work\apapun soal csharp dan NET\Belajar Lagi\2. C# dengan vscode microsoft\2.  Logic in code using IF\CsharpLogic2\BusinessRules\obj\Debug\net6.0\BusinessRules.AssemblyInfo.cs
+G:\onedrive\Work\apapun soal csharp dan NET\Belajar Lagi\2. C# dengan vscode microsoft\2.  Logic in code using IF\CsharpLogic2\BusinessRules\obj\Debug\net6.0\BusinessRules.csproj.CoreCompileInputs.cache
+G:\onedrive\Work\apapun soal csharp dan NET\Belajar Lagi\2. C# dengan vscode microsoft\2.  Logic in code using IF\CsharpLogic2\BusinessRules\obj\Debug\net6.0\BusinessRules.dll
+G:\onedrive\Work\apapun soal csharp dan NET\Belajar Lagi\2. C# dengan vscode microsoft\2.  Logic in code using IF\CsharpLogic2\BusinessRules\obj\Debug\net6.0\refint\BusinessRules.dll
+G:\onedrive\Work\apapun soal csharp dan NET\Belajar Lagi\2. C# dengan vscode microsoft\2.  Logic in code using IF\CsharpLogic2\BusinessRules\obj\Debug\net6.0\BusinessRules.pdb
+G:\onedrive\Work\apapun soal csharp dan NET\Belajar Lagi\2. C# dengan vscode microsoft\2.  Logic in code using IF\CsharpLogic2\BusinessRules\obj\Debug\net6.0\BusinessRules.genruntimeconfig.cache
+G:\onedrive\Work\apapun soal csharp dan NET\Belajar Lagi\2. C# dengan vscode microsoft\2.  Logic in code using IF\CsharpLogic2\BusinessRules\obj\Debug\net6.0\ref\BusinessRules.dll

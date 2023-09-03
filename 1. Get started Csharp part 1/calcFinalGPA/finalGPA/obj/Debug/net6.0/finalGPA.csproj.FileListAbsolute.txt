@@ -1,0 +1,15 @@
+G:\onedrive\Work\apapun soal csharp dan NET\Belajar Lagi\1. Get started Csharp part 1\calcFinalGPA\finalGPA\bin\Debug\net6.0\finalGPA.exe
+G:\onedrive\Work\apapun soal csharp dan NET\Belajar Lagi\1. Get started Csharp part 1\calcFinalGPA\finalGPA\bin\Debug\net6.0\finalGPA.deps.json
+G:\onedrive\Work\apapun soal csharp dan NET\Belajar Lagi\1. Get started Csharp part 1\calcFinalGPA\finalGPA\bin\Debug\net6.0\finalGPA.runtimeconfig.json
+G:\onedrive\Work\apapun soal csharp dan NET\Belajar Lagi\1. Get started Csharp part 1\calcFinalGPA\finalGPA\bin\Debug\net6.0\finalGPA.dll
+G:\onedrive\Work\apapun soal csharp dan NET\Belajar Lagi\1. Get started Csharp part 1\calcFinalGPA\finalGPA\bin\Debug\net6.0\finalGPA.pdb
+G:\onedrive\Work\apapun soal csharp dan NET\Belajar Lagi\1. Get started Csharp part 1\calcFinalGPA\finalGPA\obj\Debug\net6.0\finalGPA.csproj.AssemblyReference.cache
+G:\onedrive\Work\apapun soal csharp dan NET\Belajar Lagi\1. Get started Csharp part 1\calcFinalGPA\finalGPA\obj\Debug\net6.0\finalGPA.GeneratedMSBuildEditorConfig.editorconfig
+G:\onedrive\Work\apapun soal csharp dan NET\Belajar Lagi\1. Get started Csharp part 1\calcFinalGPA\finalGPA\obj\Debug\net6.0\finalGPA.AssemblyInfoInputs.cache
+G:\onedrive\Work\apapun soal csharp dan NET\Belajar Lagi\1. Get started Csharp part 1\calcFinalGPA\finalGPA\obj\Debug\net6.0\finalGPA.AssemblyInfo.cs
+G:\onedrive\Work\apapun soal csharp dan NET\Belajar Lagi\1. Get started Csharp part 1\calcFinalGPA\finalGPA\obj\Debug\net6.0\finalGPA.csproj.CoreCompileInputs.cache
+G:\onedrive\Work\apapun soal csharp dan NET\Belajar Lagi\1. Get started Csharp part 1\calcFinalGPA\finalGPA\obj\Debug\net6.0\finalGPA.dll
+G:\onedrive\Work\apapun soal csharp dan NET\Belajar Lagi\1. Get started Csharp part 1\calcFinalGPA\finalGPA\obj\Debug\net6.0\refint\finalGPA.dll
+G:\onedrive\Work\apapun soal csharp dan NET\Belajar Lagi\1. Get started Csharp part 1\calcFinalGPA\finalGPA\obj\Debug\net6.0\finalGPA.pdb
+G:\onedrive\Work\apapun soal csharp dan NET\Belajar Lagi\1. Get started Csharp part 1\calcFinalGPA\finalGPA\obj\Debug\net6.0\finalGPA.genruntimeconfig.cache
+G:\onedrive\Work\apapun soal csharp dan NET\Belajar Lagi\1. Get started Csharp part 1\calcFinalGPA\finalGPA\obj\Debug\net6.0\ref\finalGPA.dll

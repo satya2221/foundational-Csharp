@@ -1,0 +1,15 @@
+G:\onedrive\Work\apapun soal csharp dan NET\Belajar Lagi\2. C# dengan vscode microsoft\CsharpLogic\LogicProject\bin\Debug\net6.0\LogicProject.exe
+G:\onedrive\Work\apapun soal csharp dan NET\Belajar Lagi\2. C# dengan vscode microsoft\CsharpLogic\LogicProject\bin\Debug\net6.0\LogicProject.deps.json
+G:\onedrive\Work\apapun soal csharp dan NET\Belajar Lagi\2. C# dengan vscode microsoft\CsharpLogic\LogicProject\bin\Debug\net6.0\LogicProject.runtimeconfig.json
+G:\onedrive\Work\apapun soal csharp dan NET\Belajar Lagi\2. C# dengan vscode microsoft\CsharpLogic\LogicProject\bin\Debug\net6.0\LogicProject.dll
+G:\onedrive\Work\apapun soal csharp dan NET\Belajar Lagi\2. C# dengan vscode microsoft\CsharpLogic\LogicProject\bin\Debug\net6.0\LogicProject.pdb
+G:\onedrive\Work\apapun soal csharp dan NET\Belajar Lagi\2. C# dengan vscode microsoft\CsharpLogic\LogicProject\obj\Debug\net6.0\LogicProject.csproj.AssemblyReference.cache
+G:\onedrive\Work\apapun soal csharp dan NET\Belajar Lagi\2. C# dengan vscode microsoft\CsharpLogic\LogicProject\obj\Debug\net6.0\LogicProject.GeneratedMSBuildEditorConfig.editorconfig
+G:\onedrive\Work\apapun soal csharp dan NET\Belajar Lagi\2. C# dengan vscode microsoft\CsharpLogic\LogicProject\obj\Debug\net6.0\LogicProject.AssemblyInfoInputs.cache
+G:\onedrive\Work\apapun soal csharp dan NET\Belajar Lagi\2. C# dengan vscode microsoft\CsharpLogic\LogicProject\obj\Debug\net6.0\LogicProject.AssemblyInfo.cs
+G:\onedrive\Work\apapun soal csharp dan NET\Belajar Lagi\2. C# dengan vscode microsoft\CsharpLogic\LogicProject\obj\Debug\net6.0\LogicProject.csproj.CoreCompileInputs.cache
+G:\onedrive\Work\apapun soal csharp dan NET\Belajar Lagi\2. C# dengan vscode microsoft\CsharpLogic\LogicProject\obj\Debug\net6.0\LogicProject.dll
+G:\onedrive\Work\apapun soal csharp dan NET\Belajar Lagi\2. C# dengan vscode microsoft\CsharpLogic\LogicProject\obj\Debug\net6.0\refint\LogicProject.dll
+G:\onedrive\Work\apapun soal csharp dan NET\Belajar Lagi\2. C# dengan vscode microsoft\CsharpLogic\LogicProject\obj\Debug\net6.0\LogicProject.pdb
+G:\onedrive\Work\apapun soal csharp dan NET\Belajar Lagi\2. C# dengan vscode microsoft\CsharpLogic\LogicProject\obj\Debug\net6.0\LogicProject.genruntimeconfig.cache
+G:\onedrive\Work\apapun soal csharp dan NET\Belajar Lagi\2. C# dengan vscode microsoft\CsharpLogic\LogicProject\obj\Debug\net6.0\ref\LogicProject.dll

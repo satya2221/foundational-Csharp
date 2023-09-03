@@ -1,0 +1,15 @@
+G:\onedrive\Work\apapun soal csharp dan NET\Belajar Lagi\2. C# dengan vscode microsoft\CsharpProjects\TestProject\bin\Debug\net6.0\TestProject.exe
+G:\onedrive\Work\apapun soal csharp dan NET\Belajar Lagi\2. C# dengan vscode microsoft\CsharpProjects\TestProject\bin\Debug\net6.0\TestProject.deps.json
+G:\onedrive\Work\apapun soal csharp dan NET\Belajar Lagi\2. C# dengan vscode microsoft\CsharpProjects\TestProject\bin\Debug\net6.0\TestProject.runtimeconfig.json
+G:\onedrive\Work\apapun soal csharp dan NET\Belajar Lagi\2. C# dengan vscode microsoft\CsharpProjects\TestProject\bin\Debug\net6.0\TestProject.dll
+G:\onedrive\Work\apapun soal csharp dan NET\Belajar Lagi\2. C# dengan vscode microsoft\CsharpProjects\TestProject\bin\Debug\net6.0\TestProject.pdb
+G:\onedrive\Work\apapun soal csharp dan NET\Belajar Lagi\2. C# dengan vscode microsoft\CsharpProjects\TestProject\obj\Debug\net6.0\TestProject.csproj.AssemblyReference.cache
+G:\onedrive\Work\apapun soal csharp dan NET\Belajar Lagi\2. C# dengan vscode microsoft\CsharpProjects\TestProject\obj\Debug\net6.0\TestProject.GeneratedMSBuildEditorConfig.editorconfig
+G:\onedrive\Work\apapun soal csharp dan NET\Belajar Lagi\2. C# dengan vscode microsoft\CsharpProjects\TestProject\obj\Debug\net6.0\TestProject.AssemblyInfoInputs.cache
+G:\onedrive\Work\apapun soal csharp dan NET\Belajar Lagi\2. C# dengan vscode microsoft\CsharpProjects\TestProject\obj\Debug\net6.0\TestProject.AssemblyInfo.cs
+G:\onedrive\Work\apapun soal csharp dan NET\Belajar Lagi\2. C# dengan vscode microsoft\CsharpProjects\TestProject\obj\Debug\net6.0\TestProject.csproj.CoreCompileInputs.cache
+G:\onedrive\Work\apapun soal csharp dan NET\Belajar Lagi\2. C# dengan vscode microsoft\CsharpProjects\TestProject\obj\Debug\net6.0\TestProject.dll
+G:\onedrive\Work\apapun soal csharp dan NET\Belajar Lagi\2. C# dengan vscode microsoft\CsharpProjects\TestProject\obj\Debug\net6.0\refint\TestProject.dll
+G:\onedrive\Work\apapun soal csharp dan NET\Belajar Lagi\2. C# dengan vscode microsoft\CsharpProjects\TestProject\obj\Debug\net6.0\TestProject.pdb
+G:\onedrive\Work\apapun soal csharp dan NET\Belajar Lagi\2. C# dengan vscode microsoft\CsharpProjects\TestProject\obj\Debug\net6.0\TestProject.genruntimeconfig.cache
+G:\onedrive\Work\apapun soal csharp dan NET\Belajar Lagi\2. C# dengan vscode microsoft\CsharpProjects\TestProject\obj\Debug\net6.0\ref\TestProject.dll

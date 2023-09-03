@@ -1,0 +1,15 @@
+G:\onedrive\Work\apapun soal csharp dan NET\Belajar Lagi\2. C# dengan vscode microsoft\3.  Foreach and array\CsharpArray1\FraudProject\bin\Debug\net6.0\FraudProject.exe
+G:\onedrive\Work\apapun soal csharp dan NET\Belajar Lagi\2. C# dengan vscode microsoft\3.  Foreach and array\CsharpArray1\FraudProject\bin\Debug\net6.0\FraudProject.deps.json
+G:\onedrive\Work\apapun soal csharp dan NET\Belajar Lagi\2. C# dengan vscode microsoft\3.  Foreach and array\CsharpArray1\FraudProject\bin\Debug\net6.0\FraudProject.runtimeconfig.json
+G:\onedrive\Work\apapun soal csharp dan NET\Belajar Lagi\2. C# dengan vscode microsoft\3.  Foreach and array\CsharpArray1\FraudProject\bin\Debug\net6.0\FraudProject.dll
+G:\onedrive\Work\apapun soal csharp dan NET\Belajar Lagi\2. C# dengan vscode microsoft\3.  Foreach and array\CsharpArray1\FraudProject\bin\Debug\net6.0\FraudProject.pdb
+G:\onedrive\Work\apapun soal csharp dan NET\Belajar Lagi\2. C# dengan vscode microsoft\3.  Foreach and array\CsharpArray1\FraudProject\obj\Debug\net6.0\FraudProject.csproj.AssemblyReference.cache
+G:\onedrive\Work\apapun soal csharp dan NET\Belajar Lagi\2. C# dengan vscode microsoft\3.  Foreach and array\CsharpArray1\FraudProject\obj\Debug\net6.0\FraudProject.GeneratedMSBuildEditorConfig.editorconfig
+G:\onedrive\Work\apapun soal csharp dan NET\Belajar Lagi\2. C# dengan vscode microsoft\3.  Foreach and array\CsharpArray1\FraudProject\obj\Debug\net6.0\FraudProject.AssemblyInfoInputs.cache
+G:\onedrive\Work\apapun soal csharp dan NET\Belajar Lagi\2. C# dengan vscode microsoft\3.  Foreach and array\CsharpArray1\FraudProject\obj\Debug\net6.0\FraudProject.AssemblyInfo.cs
+G:\onedrive\Work\apapun soal csharp dan NET\Belajar Lagi\2. C# dengan vscode microsoft\3.  Foreach and array\CsharpArray1\FraudProject\obj\Debug\net6.0\FraudProject.csproj.CoreCompileInputs.cache
+G:\onedrive\Work\apapun soal csharp dan NET\Belajar Lagi\2. C# dengan vscode microsoft\3.  Foreach and array\CsharpArray1\FraudProject\obj\Debug\net6.0\FraudProject.dll
+G:\onedrive\Work\apapun soal csharp dan NET\Belajar Lagi\2. C# dengan vscode microsoft\3.  Foreach and array\CsharpArray1\FraudProject\obj\Debug\net6.0\refint\FraudProject.dll
+G:\onedrive\Work\apapun soal csharp dan NET\Belajar Lagi\2. C# dengan vscode microsoft\3.  Foreach and array\CsharpArray1\FraudProject\obj\Debug\net6.0\FraudProject.pdb
+G:\onedrive\Work\apapun soal csharp dan NET\Belajar Lagi\2. C# dengan vscode microsoft\3.  Foreach and array\CsharpArray1\FraudProject\obj\Debug\net6.0\FraudProject.genruntimeconfig.cache
+G:\onedrive\Work\apapun soal csharp dan NET\Belajar Lagi\2. C# dengan vscode microsoft\3.  Foreach and array\CsharpArray1\FraudProject\obj\Debug\net6.0\ref\FraudProject.dll

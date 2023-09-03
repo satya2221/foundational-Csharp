@@ -1,0 +1,15 @@
+G:\onedrive\Work\apapun soal csharp dan NET\Belajar Lagi\2. C# dengan vscode microsoft\4. Convention\CsharpConvention\Comments\bin\Debug\net6.0\Comments.exe
+G:\onedrive\Work\apapun soal csharp dan NET\Belajar Lagi\2. C# dengan vscode microsoft\4. Convention\CsharpConvention\Comments\bin\Debug\net6.0\Comments.deps.json
+G:\onedrive\Work\apapun soal csharp dan NET\Belajar Lagi\2. C# dengan vscode microsoft\4. Convention\CsharpConvention\Comments\bin\Debug\net6.0\Comments.runtimeconfig.json
+G:\onedrive\Work\apapun soal csharp dan NET\Belajar Lagi\2. C# dengan vscode microsoft\4. Convention\CsharpConvention\Comments\bin\Debug\net6.0\Comments.dll
+G:\onedrive\Work\apapun soal csharp dan NET\Belajar Lagi\2. C# dengan vscode microsoft\4. Convention\CsharpConvention\Comments\bin\Debug\net6.0\Comments.pdb
+G:\onedrive\Work\apapun soal csharp dan NET\Belajar Lagi\2. C# dengan vscode microsoft\4. Convention\CsharpConvention\Comments\obj\Debug\net6.0\Comments.csproj.AssemblyReference.cache
+G:\onedrive\Work\apapun soal csharp dan NET\Belajar Lagi\2. C# dengan vscode microsoft\4. Convention\CsharpConvention\Comments\obj\Debug\net6.0\Comments.GeneratedMSBuildEditorConfig.editorconfig
+G:\onedrive\Work\apapun soal csharp dan NET\Belajar Lagi\2. C# dengan vscode microsoft\4. Convention\CsharpConvention\Comments\obj\Debug\net6.0\Comments.AssemblyInfoInputs.cache
+G:\onedrive\Work\apapun soal csharp dan NET\Belajar Lagi\2. C# dengan vscode microsoft\4. Convention\CsharpConvention\Comments\obj\Debug\net6.0\Comments.AssemblyInfo.cs
+G:\onedrive\Work\apapun soal csharp dan NET\Belajar Lagi\2. C# dengan vscode microsoft\4. Convention\CsharpConvention\Comments\obj\Debug\net6.0\Comments.csproj.CoreCompileInputs.cache
+G:\onedrive\Work\apapun soal csharp dan NET\Belajar Lagi\2. C# dengan vscode microsoft\4. Convention\CsharpConvention\Comments\obj\Debug\net6.0\Comments.dll
+G:\onedrive\Work\apapun soal csharp dan NET\Belajar Lagi\2. C# dengan vscode microsoft\4. Convention\CsharpConvention\Comments\obj\Debug\net6.0\refint\Comments.dll
+G:\onedrive\Work\apapun soal csharp dan NET\Belajar Lagi\2. C# dengan vscode microsoft\4. Convention\CsharpConvention\Comments\obj\Debug\net6.0\Comments.pdb
+G:\onedrive\Work\apapun soal csharp dan NET\Belajar Lagi\2. C# dengan vscode microsoft\4. Convention\CsharpConvention\Comments\obj\Debug\net6.0\Comments.genruntimeconfig.cache
+G:\onedrive\Work\apapun soal csharp dan NET\Belajar Lagi\2. C# dengan vscode microsoft\4. Convention\CsharpConvention\Comments\obj\Debug\net6.0\ref\Comments.dll
