@@ -1,0 +1,15 @@
+G:\onedrive\Learn Programming\2023 class\C# Dasar\3. Logic on C# console\1. Boolean expression\BooleanChallenge\bin\Debug\net6.0\BooleanChallenge.exe
+G:\onedrive\Learn Programming\2023 class\C# Dasar\3. Logic on C# console\1. Boolean expression\BooleanChallenge\bin\Debug\net6.0\BooleanChallenge.deps.json
+G:\onedrive\Learn Programming\2023 class\C# Dasar\3. Logic on C# console\1. Boolean expression\BooleanChallenge\bin\Debug\net6.0\BooleanChallenge.runtimeconfig.json
+G:\onedrive\Learn Programming\2023 class\C# Dasar\3. Logic on C# console\1. Boolean expression\BooleanChallenge\bin\Debug\net6.0\BooleanChallenge.dll
+G:\onedrive\Learn Programming\2023 class\C# Dasar\3. Logic on C# console\1. Boolean expression\BooleanChallenge\bin\Debug\net6.0\BooleanChallenge.pdb
+G:\onedrive\Learn Programming\2023 class\C# Dasar\3. Logic on C# console\1. Boolean expression\BooleanChallenge\obj\Debug\net6.0\BooleanChallenge.csproj.AssemblyReference.cache
+G:\onedrive\Learn Programming\2023 class\C# Dasar\3. Logic on C# console\1. Boolean expression\BooleanChallenge\obj\Debug\net6.0\BooleanChallenge.GeneratedMSBuildEditorConfig.editorconfig
+G:\onedrive\Learn Programming\2023 class\C# Dasar\3. Logic on C# console\1. Boolean expression\BooleanChallenge\obj\Debug\net6.0\BooleanChallenge.AssemblyInfoInputs.cache
+G:\onedrive\Learn Programming\2023 class\C# Dasar\3. Logic on C# console\1. Boolean expression\BooleanChallenge\obj\Debug\net6.0\BooleanChallenge.AssemblyInfo.cs
+G:\onedrive\Learn Programming\2023 class\C# Dasar\3. Logic on C# console\1. Boolean expression\BooleanChallenge\obj\Debug\net6.0\BooleanChallenge.csproj.CoreCompileInputs.cache
+G:\onedrive\Learn Programming\2023 class\C# Dasar\3. Logic on C# console\1. Boolean expression\BooleanChallenge\obj\Debug\net6.0\BooleanChallenge.dll
+G:\onedrive\Learn Programming\2023 class\C# Dasar\3. Logic on C# console\1. Boolean expression\BooleanChallenge\obj\Debug\net6.0\refint\BooleanChallenge.dll
+G:\onedrive\Learn Programming\2023 class\C# Dasar\3. Logic on C# console\1. Boolean expression\BooleanChallenge\obj\Debug\net6.0\BooleanChallenge.pdb
+G:\onedrive\Learn Programming\2023 class\C# Dasar\3. Logic on C# console\1. Boolean expression\BooleanChallenge\obj\Debug\net6.0\BooleanChallenge.genruntimeconfig.cache
+G:\onedrive\Learn Programming\2023 class\C# Dasar\3. Logic on C# console\1. Boolean expression\BooleanChallenge\obj\Debug\net6.0\ref\BooleanChallenge.dll

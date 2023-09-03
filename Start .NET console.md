@@ -2,7 +2,7 @@ Here is the instruction to start .NET console applicatiom
 1. Navigate to the directory where the program folder will be put
 2. Run this command on CMD
 ```
-dotnet new console -o ./<NamaProject>/<CsProjName>**
+dotnet new console -o ./<NamaProject>/<CsProjName>
 ```
 3. navigate to the project folder
 ```
