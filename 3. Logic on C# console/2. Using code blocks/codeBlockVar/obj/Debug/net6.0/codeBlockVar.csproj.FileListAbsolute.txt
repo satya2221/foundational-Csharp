@@ -1,0 +1,15 @@
+G:\onedrive\Learn Programming\2023 class\C# Dasar\3. Logic on C# console\2. Using code blocks\codeBlockVar\obj\Debug\net6.0\codeBlockVar.csproj.AssemblyReference.cache
+G:\onedrive\Learn Programming\2023 class\C# Dasar\3. Logic on C# console\2. Using code blocks\codeBlockVar\obj\Debug\net6.0\codeBlockVar.GeneratedMSBuildEditorConfig.editorconfig
+G:\onedrive\Learn Programming\2023 class\C# Dasar\3. Logic on C# console\2. Using code blocks\codeBlockVar\obj\Debug\net6.0\codeBlockVar.AssemblyInfoInputs.cache
+G:\onedrive\Learn Programming\2023 class\C# Dasar\3. Logic on C# console\2. Using code blocks\codeBlockVar\obj\Debug\net6.0\codeBlockVar.AssemblyInfo.cs
+G:\onedrive\Learn Programming\2023 class\C# Dasar\3. Logic on C# console\2. Using code blocks\codeBlockVar\obj\Debug\net6.0\codeBlockVar.csproj.CoreCompileInputs.cache
+G:\onedrive\Learn Programming\2023 class\C# Dasar\3. Logic on C# console\2. Using code blocks\codeBlockVar\bin\Debug\net6.0\codeBlockVar.exe
+G:\onedrive\Learn Programming\2023 class\C# Dasar\3. Logic on C# console\2. Using code blocks\codeBlockVar\bin\Debug\net6.0\codeBlockVar.deps.json
+G:\onedrive\Learn Programming\2023 class\C# Dasar\3. Logic on C# console\2. Using code blocks\codeBlockVar\bin\Debug\net6.0\codeBlockVar.runtimeconfig.json
+G:\onedrive\Learn Programming\2023 class\C# Dasar\3. Logic on C# console\2. Using code blocks\codeBlockVar\bin\Debug\net6.0\codeBlockVar.dll
+G:\onedrive\Learn Programming\2023 class\C# Dasar\3. Logic on C# console\2. Using code blocks\codeBlockVar\bin\Debug\net6.0\codeBlockVar.pdb
+G:\onedrive\Learn Programming\2023 class\C# Dasar\3. Logic on C# console\2. Using code blocks\codeBlockVar\obj\Debug\net6.0\codeBlockVar.dll
+G:\onedrive\Learn Programming\2023 class\C# Dasar\3. Logic on C# console\2. Using code blocks\codeBlockVar\obj\Debug\net6.0\refint\codeBlockVar.dll
+G:\onedrive\Learn Programming\2023 class\C# Dasar\3. Logic on C# console\2. Using code blocks\codeBlockVar\obj\Debug\net6.0\codeBlockVar.pdb
+G:\onedrive\Learn Programming\2023 class\C# Dasar\3. Logic on C# console\2. Using code blocks\codeBlockVar\obj\Debug\net6.0\codeBlockVar.genruntimeconfig.cache
+G:\onedrive\Learn Programming\2023 class\C# Dasar\3. Logic on C# console\2. Using code blocks\codeBlockVar\obj\Debug\net6.0\ref\codeBlockVar.dll
