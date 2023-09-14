@@ -46,7 +46,7 @@ if (flag)
 ```
 The code above is the best practice when we want to simplify a statement with one line of code (Enter it to one line and indent it). The code below will works the same too but it will reduce the readability
 ```C#
-// Do not code like this
+// Do not code like this ❌ ❌ ❌ ❌ 
 string name = "steve";
 if (name == "bob") Console.WriteLine("Found Bob");
 else if (name == "steve") Console.WriteLine("Found Steve");

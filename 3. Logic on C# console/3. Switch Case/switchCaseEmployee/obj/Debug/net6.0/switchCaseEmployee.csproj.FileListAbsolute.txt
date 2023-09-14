@@ -1,0 +1,15 @@
+G:\onedrive\Learn Programming\2023 class\C# Dasar\3. Logic on C# console\3. Switch Case\switchCaseEmployee\bin\Debug\net6.0\switchCaseEmployee.exe
+G:\onedrive\Learn Programming\2023 class\C# Dasar\3. Logic on C# console\3. Switch Case\switchCaseEmployee\bin\Debug\net6.0\switchCaseEmployee.deps.json
+G:\onedrive\Learn Programming\2023 class\C# Dasar\3. Logic on C# console\3. Switch Case\switchCaseEmployee\bin\Debug\net6.0\switchCaseEmployee.runtimeconfig.json
+G:\onedrive\Learn Programming\2023 class\C# Dasar\3. Logic on C# console\3. Switch Case\switchCaseEmployee\bin\Debug\net6.0\switchCaseEmployee.dll
+G:\onedrive\Learn Programming\2023 class\C# Dasar\3. Logic on C# console\3. Switch Case\switchCaseEmployee\bin\Debug\net6.0\switchCaseEmployee.pdb
+G:\onedrive\Learn Programming\2023 class\C# Dasar\3. Logic on C# console\3. Switch Case\switchCaseEmployee\obj\Debug\net6.0\switchCaseEmployee.csproj.AssemblyReference.cache
+G:\onedrive\Learn Programming\2023 class\C# Dasar\3. Logic on C# console\3. Switch Case\switchCaseEmployee\obj\Debug\net6.0\switchCaseEmployee.GeneratedMSBuildEditorConfig.editorconfig
+G:\onedrive\Learn Programming\2023 class\C# Dasar\3. Logic on C# console\3. Switch Case\switchCaseEmployee\obj\Debug\net6.0\switchCaseEmployee.AssemblyInfoInputs.cache
+G:\onedrive\Learn Programming\2023 class\C# Dasar\3. Logic on C# console\3. Switch Case\switchCaseEmployee\obj\Debug\net6.0\switchCaseEmployee.AssemblyInfo.cs
+G:\onedrive\Learn Programming\2023 class\C# Dasar\3. Logic on C# console\3. Switch Case\switchCaseEmployee\obj\Debug\net6.0\switchCaseEmployee.csproj.CoreCompileInputs.cache
+G:\onedrive\Learn Programming\2023 class\C# Dasar\3. Logic on C# console\3. Switch Case\switchCaseEmployee\obj\Debug\net6.0\switchCaseEmployee.dll
+G:\onedrive\Learn Programming\2023 class\C# Dasar\3. Logic on C# console\3. Switch Case\switchCaseEmployee\obj\Debug\net6.0\refint\switchCaseEmployee.dll
+G:\onedrive\Learn Programming\2023 class\C# Dasar\3. Logic on C# console\3. Switch Case\switchCaseEmployee\obj\Debug\net6.0\switchCaseEmployee.pdb
+G:\onedrive\Learn Programming\2023 class\C# Dasar\3. Logic on C# console\3. Switch Case\switchCaseEmployee\obj\Debug\net6.0\switchCaseEmployee.genruntimeconfig.cache
+G:\onedrive\Learn Programming\2023 class\C# Dasar\3. Logic on C# console\3. Switch Case\switchCaseEmployee\obj\Debug\net6.0\ref\switchCaseEmployee.dll

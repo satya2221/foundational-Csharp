@@ -1,0 +1,15 @@
+G:\onedrive\Learn Programming\2023 class\C# Dasar\3. Logic on C# console\3. Switch Case\productSKU\bin\Debug\net6.0\productSKU.exe
+G:\onedrive\Learn Programming\2023 class\C# Dasar\3. Logic on C# console\3. Switch Case\productSKU\bin\Debug\net6.0\productSKU.deps.json
+G:\onedrive\Learn Programming\2023 class\C# Dasar\3. Logic on C# console\3. Switch Case\productSKU\bin\Debug\net6.0\productSKU.runtimeconfig.json
+G:\onedrive\Learn Programming\2023 class\C# Dasar\3. Logic on C# console\3. Switch Case\productSKU\bin\Debug\net6.0\productSKU.dll
+G:\onedrive\Learn Programming\2023 class\C# Dasar\3. Logic on C# console\3. Switch Case\productSKU\bin\Debug\net6.0\productSKU.pdb
+G:\onedrive\Learn Programming\2023 class\C# Dasar\3. Logic on C# console\3. Switch Case\productSKU\obj\Debug\net6.0\productSKU.csproj.AssemblyReference.cache
+G:\onedrive\Learn Programming\2023 class\C# Dasar\3. Logic on C# console\3. Switch Case\productSKU\obj\Debug\net6.0\productSKU.GeneratedMSBuildEditorConfig.editorconfig
+G:\onedrive\Learn Programming\2023 class\C# Dasar\3. Logic on C# console\3. Switch Case\productSKU\obj\Debug\net6.0\productSKU.AssemblyInfoInputs.cache
+G:\onedrive\Learn Programming\2023 class\C# Dasar\3. Logic on C# console\3. Switch Case\productSKU\obj\Debug\net6.0\productSKU.AssemblyInfo.cs
+G:\onedrive\Learn Programming\2023 class\C# Dasar\3. Logic on C# console\3. Switch Case\productSKU\obj\Debug\net6.0\productSKU.csproj.CoreCompileInputs.cache
+G:\onedrive\Learn Programming\2023 class\C# Dasar\3. Logic on C# console\3. Switch Case\productSKU\obj\Debug\net6.0\productSKU.dll
+G:\onedrive\Learn Programming\2023 class\C# Dasar\3. Logic on C# console\3. Switch Case\productSKU\obj\Debug\net6.0\refint\productSKU.dll
+G:\onedrive\Learn Programming\2023 class\C# Dasar\3. Logic on C# console\3. Switch Case\productSKU\obj\Debug\net6.0\productSKU.pdb
+G:\onedrive\Learn Programming\2023 class\C# Dasar\3. Logic on C# console\3. Switch Case\productSKU\obj\Debug\net6.0\productSKU.genruntimeconfig.cache
+G:\onedrive\Learn Programming\2023 class\C# Dasar\3. Logic on C# console\3. Switch Case\productSKU\obj\Debug\net6.0\ref\productSKU.dll

@@ -1,4 +1,4 @@
-Here is the instruction to start .NET console applicatiom
+Here is the instruction to start .NET console application
 1. Navigate to the directory where the program folder will be put
 2. Run this command on CMD
 ```
