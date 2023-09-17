@@ -1,0 +1,15 @@
+G:\onedrive\Learn Programming\2023 class\C# Dasar\3. Logic on C# console\4. For loop\fizzBuzzChallenge\obj\Debug\net6.0\fizzBuzzChallenge.csproj.AssemblyReference.cache
+G:\onedrive\Learn Programming\2023 class\C# Dasar\3. Logic on C# console\4. For loop\fizzBuzzChallenge\obj\Debug\net6.0\fizzBuzzChallenge.GeneratedMSBuildEditorConfig.editorconfig
+G:\onedrive\Learn Programming\2023 class\C# Dasar\3. Logic on C# console\4. For loop\fizzBuzzChallenge\obj\Debug\net6.0\fizzBuzzChallenge.AssemblyInfoInputs.cache
+G:\onedrive\Learn Programming\2023 class\C# Dasar\3. Logic on C# console\4. For loop\fizzBuzzChallenge\obj\Debug\net6.0\fizzBuzzChallenge.AssemblyInfo.cs
+G:\onedrive\Learn Programming\2023 class\C# Dasar\3. Logic on C# console\4. For loop\fizzBuzzChallenge\obj\Debug\net6.0\fizzBuzzChallenge.csproj.CoreCompileInputs.cache
+G:\onedrive\Learn Programming\2023 class\C# Dasar\3. Logic on C# console\4. For loop\fizzBuzzChallenge\bin\Debug\net6.0\fizzBuzzChallenge.exe
+G:\onedrive\Learn Programming\2023 class\C# Dasar\3. Logic on C# console\4. For loop\fizzBuzzChallenge\bin\Debug\net6.0\fizzBuzzChallenge.deps.json
+G:\onedrive\Learn Programming\2023 class\C# Dasar\3. Logic on C# console\4. For loop\fizzBuzzChallenge\bin\Debug\net6.0\fizzBuzzChallenge.runtimeconfig.json
+G:\onedrive\Learn Programming\2023 class\C# Dasar\3. Logic on C# console\4. For loop\fizzBuzzChallenge\bin\Debug\net6.0\fizzBuzzChallenge.dll
+G:\onedrive\Learn Programming\2023 class\C# Dasar\3. Logic on C# console\4. For loop\fizzBuzzChallenge\bin\Debug\net6.0\fizzBuzzChallenge.pdb
+G:\onedrive\Learn Programming\2023 class\C# Dasar\3. Logic on C# console\4. For loop\fizzBuzzChallenge\obj\Debug\net6.0\fizzBuzzChallenge.dll
+G:\onedrive\Learn Programming\2023 class\C# Dasar\3. Logic on C# console\4. For loop\fizzBuzzChallenge\obj\Debug\net6.0\refint\fizzBuzzChallenge.dll
+G:\onedrive\Learn Programming\2023 class\C# Dasar\3. Logic on C# console\4. For loop\fizzBuzzChallenge\obj\Debug\net6.0\fizzBuzzChallenge.pdb
+G:\onedrive\Learn Programming\2023 class\C# Dasar\3. Logic on C# console\4. For loop\fizzBuzzChallenge\obj\Debug\net6.0\fizzBuzzChallenge.genruntimeconfig.cache
+G:\onedrive\Learn Programming\2023 class\C# Dasar\3. Logic on C# console\4. For loop\fizzBuzzChallenge\obj\Debug\net6.0\ref\fizzBuzzChallenge.dll
