@@ -1,0 +1,156 @@
+{
+  "main": {
+    "id": "abeb1be05f9c479b",
+    "type": "split",
+    "children": [
+      {
+        "id": "6586059c274d690b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "728404b27cd8bd1a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. Logic on C# console/Switch Case.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0ee57c95c236c45c",
+    "type": "split",
+    "children": [
+      {
+        "id": "5dbd066c0aefebee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "454a4bb7ce39935d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "978970268754c143",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d250ffed610d77c8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "64b984adc1d5fb9d",
+    "type": "split",
+    "children": [
+      {
+        "id": "38cd79ed255b164e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b34022a9d266d1a7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "3. Logic on C# console/Switch Case.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "540fa38e7b2e0dc2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "3. Logic on C# console/Switch Case.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "946c9cd0e93e1528",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "69c6043e83a3852b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "3. Logic on C# console/Switch Case.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "728404b27cd8bd1a",
+  "lastOpenFiles": [
+    "3. Logic on C# console/For Looping.md",
+    "3. Logic on C# console/do while.md",
+    "3. Logic on C# console/Csharp expression.md",
+    "3. Logic on C# console/Code block.md"
+  ]
+}

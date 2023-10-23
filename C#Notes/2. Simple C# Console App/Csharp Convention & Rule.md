@@ -5,7 +5,7 @@ Naming a variable have to follow certain syntax rules and it should be make the 
 ### Name rule
 - Variable can contain alphanumeric char + underscore. `#` , `-`, and `$` are not allowed to use.
 - Start with an alphabet or underscore, not a number
-- Must not be aa C# keyword like data type name like `float`
+- Must not be a C# keyword like data type name like `float`
 - Variable are case sensitive so `MyValue` with `myValue` is 2 different variable
 ### Name convention
 - Name should be **camel case** like this 

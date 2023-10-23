@@ -4,6 +4,10 @@ Here is the instruction to start .NET console application
 ```
 dotnet new console -o ./<NamaProject>/<CsProjName>
 ```
+If you want to specify framework version use `-f` or `--framework`command like in this example
+```
+dotnet new console -o ./<NamaProject>/<CsProjName> -f net6.0
+```
 3. navigate to the project folder
 ```
 cd <NamaProject>/<CsProjName>
