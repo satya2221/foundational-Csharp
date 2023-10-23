@@ -1,0 +1,14 @@
+G:\onedrive\Learn Programming\2023 class\C# Dasar\3. Logic on C# console\5. do while loop\processedArray\bin\Debug\net6.0\processedArray.exe
+G:\onedrive\Learn Programming\2023 class\C# Dasar\3. Logic on C# console\5. do while loop\processedArray\bin\Debug\net6.0\processedArray.deps.json
+G:\onedrive\Learn Programming\2023 class\C# Dasar\3. Logic on C# console\5. do while loop\processedArray\bin\Debug\net6.0\processedArray.runtimeconfig.json
+G:\onedrive\Learn Programming\2023 class\C# Dasar\3. Logic on C# console\5. do while loop\processedArray\bin\Debug\net6.0\processedArray.dll
+G:\onedrive\Learn Programming\2023 class\C# Dasar\3. Logic on C# console\5. do while loop\processedArray\bin\Debug\net6.0\processedArray.pdb
+G:\onedrive\Learn Programming\2023 class\C# Dasar\3. Logic on C# console\5. do while loop\processedArray\obj\Debug\net6.0\processedArray.GeneratedMSBuildEditorConfig.editorconfig
+G:\onedrive\Learn Programming\2023 class\C# Dasar\3. Logic on C# console\5. do while loop\processedArray\obj\Debug\net6.0\processedArray.AssemblyInfoInputs.cache
+G:\onedrive\Learn Programming\2023 class\C# Dasar\3. Logic on C# console\5. do while loop\processedArray\obj\Debug\net6.0\processedArray.AssemblyInfo.cs
+G:\onedrive\Learn Programming\2023 class\C# Dasar\3. Logic on C# console\5. do while loop\processedArray\obj\Debug\net6.0\processedArray.csproj.CoreCompileInputs.cache
+G:\onedrive\Learn Programming\2023 class\C# Dasar\3. Logic on C# console\5. do while loop\processedArray\obj\Debug\net6.0\processedArray.dll
+G:\onedrive\Learn Programming\2023 class\C# Dasar\3. Logic on C# console\5. do while loop\processedArray\obj\Debug\net6.0\refint\processedArray.dll
+G:\onedrive\Learn Programming\2023 class\C# Dasar\3. Logic on C# console\5. do while loop\processedArray\obj\Debug\net6.0\processedArray.pdb
+G:\onedrive\Learn Programming\2023 class\C# Dasar\3. Logic on C# console\5. do while loop\processedArray\obj\Debug\net6.0\processedArray.genruntimeconfig.cache
+G:\onedrive\Learn Programming\2023 class\C# Dasar\3. Logic on C# console\5. do while loop\processedArray\obj\Debug\net6.0\ref\processedArray.dll

@@ -1,0 +1,14 @@
+G:\onedrive\Learn Programming\2023 class\C# Dasar\3. Logic on C# console\5. do while loop\rolePlayGame\bin\Debug\net6.0\rolePlayGame.exe
+G:\onedrive\Learn Programming\2023 class\C# Dasar\3. Logic on C# console\5. do while loop\rolePlayGame\bin\Debug\net6.0\rolePlayGame.deps.json
+G:\onedrive\Learn Programming\2023 class\C# Dasar\3. Logic on C# console\5. do while loop\rolePlayGame\bin\Debug\net6.0\rolePlayGame.runtimeconfig.json
+G:\onedrive\Learn Programming\2023 class\C# Dasar\3. Logic on C# console\5. do while loop\rolePlayGame\bin\Debug\net6.0\rolePlayGame.dll
+G:\onedrive\Learn Programming\2023 class\C# Dasar\3. Logic on C# console\5. do while loop\rolePlayGame\bin\Debug\net6.0\rolePlayGame.pdb
+G:\onedrive\Learn Programming\2023 class\C# Dasar\3. Logic on C# console\5. do while loop\rolePlayGame\obj\Debug\net6.0\rolePlayGame.GeneratedMSBuildEditorConfig.editorconfig
+G:\onedrive\Learn Programming\2023 class\C# Dasar\3. Logic on C# console\5. do while loop\rolePlayGame\obj\Debug\net6.0\rolePlayGame.AssemblyInfoInputs.cache
+G:\onedrive\Learn Programming\2023 class\C# Dasar\3. Logic on C# console\5. do while loop\rolePlayGame\obj\Debug\net6.0\rolePlayGame.AssemblyInfo.cs
+G:\onedrive\Learn Programming\2023 class\C# Dasar\3. Logic on C# console\5. do while loop\rolePlayGame\obj\Debug\net6.0\rolePlayGame.csproj.CoreCompileInputs.cache
+G:\onedrive\Learn Programming\2023 class\C# Dasar\3. Logic on C# console\5. do while loop\rolePlayGame\obj\Debug\net6.0\rolePlayGame.dll
+G:\onedrive\Learn Programming\2023 class\C# Dasar\3. Logic on C# console\5. do while loop\rolePlayGame\obj\Debug\net6.0\refint\rolePlayGame.dll
+G:\onedrive\Learn Programming\2023 class\C# Dasar\3. Logic on C# console\5. do while loop\rolePlayGame\obj\Debug\net6.0\rolePlayGame.pdb
+G:\onedrive\Learn Programming\2023 class\C# Dasar\3. Logic on C# console\5. do while loop\rolePlayGame\obj\Debug\net6.0\rolePlayGame.genruntimeconfig.cache
+G:\onedrive\Learn Programming\2023 class\C# Dasar\3. Logic on C# console\5. do while loop\rolePlayGame\obj\Debug\net6.0\ref\rolePlayGame.dll

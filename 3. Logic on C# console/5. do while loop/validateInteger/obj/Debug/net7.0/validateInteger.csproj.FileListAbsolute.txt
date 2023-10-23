@@ -1,0 +1,14 @@
+G:\onedrive\Learn Programming\2023 class\C# Dasar\3. Logic on C# console\5. do while loop\validateInteger\bin\Debug\net7.0\validateInteger.exe
+G:\onedrive\Learn Programming\2023 class\C# Dasar\3. Logic on C# console\5. do while loop\validateInteger\bin\Debug\net7.0\validateInteger.deps.json
+G:\onedrive\Learn Programming\2023 class\C# Dasar\3. Logic on C# console\5. do while loop\validateInteger\bin\Debug\net7.0\validateInteger.runtimeconfig.json
+G:\onedrive\Learn Programming\2023 class\C# Dasar\3. Logic on C# console\5. do while loop\validateInteger\bin\Debug\net7.0\validateInteger.dll
+G:\onedrive\Learn Programming\2023 class\C# Dasar\3. Logic on C# console\5. do while loop\validateInteger\bin\Debug\net7.0\validateInteger.pdb
+G:\onedrive\Learn Programming\2023 class\C# Dasar\3. Logic on C# console\5. do while loop\validateInteger\obj\Debug\net7.0\validateInteger.GeneratedMSBuildEditorConfig.editorconfig
+G:\onedrive\Learn Programming\2023 class\C# Dasar\3. Logic on C# console\5. do while loop\validateInteger\obj\Debug\net7.0\validateInteger.AssemblyInfoInputs.cache
+G:\onedrive\Learn Programming\2023 class\C# Dasar\3. Logic on C# console\5. do while loop\validateInteger\obj\Debug\net7.0\validateInteger.AssemblyInfo.cs
+G:\onedrive\Learn Programming\2023 class\C# Dasar\3. Logic on C# console\5. do while loop\validateInteger\obj\Debug\net7.0\validateInteger.csproj.CoreCompileInputs.cache
+G:\onedrive\Learn Programming\2023 class\C# Dasar\3. Logic on C# console\5. do while loop\validateInteger\obj\Debug\net7.0\validateInteger.dll
+G:\onedrive\Learn Programming\2023 class\C# Dasar\3. Logic on C# console\5. do while loop\validateInteger\obj\Debug\net7.0\refint\validateInteger.dll
+G:\onedrive\Learn Programming\2023 class\C# Dasar\3. Logic on C# console\5. do while loop\validateInteger\obj\Debug\net7.0\validateInteger.pdb
+G:\onedrive\Learn Programming\2023 class\C# Dasar\3. Logic on C# console\5. do while loop\validateInteger\obj\Debug\net7.0\validateInteger.genruntimeconfig.cache
+G:\onedrive\Learn Programming\2023 class\C# Dasar\3. Logic on C# console\5. do while loop\validateInteger\obj\Debug\net7.0\ref\validateInteger.dll

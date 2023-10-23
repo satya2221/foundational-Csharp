@@ -1,0 +1,14 @@
+G:\onedrive\Learn Programming\2023 class\C# Dasar\3. Logic on C# console\5. do while loop\validateString\bin\Debug\net6.0\validateString.exe
+G:\onedrive\Learn Programming\2023 class\C# Dasar\3. Logic on C# console\5. do while loop\validateString\bin\Debug\net6.0\validateString.deps.json
+G:\onedrive\Learn Programming\2023 class\C# Dasar\3. Logic on C# console\5. do while loop\validateString\bin\Debug\net6.0\validateString.runtimeconfig.json
+G:\onedrive\Learn Programming\2023 class\C# Dasar\3. Logic on C# console\5. do while loop\validateString\bin\Debug\net6.0\validateString.dll
+G:\onedrive\Learn Programming\2023 class\C# Dasar\3. Logic on C# console\5. do while loop\validateString\bin\Debug\net6.0\validateString.pdb
+G:\onedrive\Learn Programming\2023 class\C# Dasar\3. Logic on C# console\5. do while loop\validateString\obj\Debug\net6.0\validateString.GeneratedMSBuildEditorConfig.editorconfig
+G:\onedrive\Learn Programming\2023 class\C# Dasar\3. Logic on C# console\5. do while loop\validateString\obj\Debug\net6.0\validateString.AssemblyInfoInputs.cache
+G:\onedrive\Learn Programming\2023 class\C# Dasar\3. Logic on C# console\5. do while loop\validateString\obj\Debug\net6.0\validateString.AssemblyInfo.cs
+G:\onedrive\Learn Programming\2023 class\C# Dasar\3. Logic on C# console\5. do while loop\validateString\obj\Debug\net6.0\validateString.csproj.CoreCompileInputs.cache
+G:\onedrive\Learn Programming\2023 class\C# Dasar\3. Logic on C# console\5. do while loop\validateString\obj\Debug\net6.0\validateString.dll
+G:\onedrive\Learn Programming\2023 class\C# Dasar\3. Logic on C# console\5. do while loop\validateString\obj\Debug\net6.0\refint\validateString.dll
+G:\onedrive\Learn Programming\2023 class\C# Dasar\3. Logic on C# console\5. do while loop\validateString\obj\Debug\net6.0\validateString.pdb
+G:\onedrive\Learn Programming\2023 class\C# Dasar\3. Logic on C# console\5. do while loop\validateString\obj\Debug\net6.0\validateString.genruntimeconfig.cache
+G:\onedrive\Learn Programming\2023 class\C# Dasar\3. Logic on C# console\5. do while loop\validateString\obj\Debug\net6.0\ref\validateString.dll
