@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Logic on C# console/Switch Case.md",
+                "file": "Start .NET console.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Logic on C# console/Switch Case.md",
+                "file": "Start .NET console.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Logic on C# console/Switch Case.md",
+                "file": "Start .NET console.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Logic on C# console/Switch Case.md"
+                "file": "Start .NET console.md"
               }
             }
           }
@@ -148,8 +148,10 @@
   },
   "active": "728404b27cd8bd1a",
   "lastOpenFiles": [
-    "3. Logic on C# console/For Looping.md",
     "3. Logic on C# console/do while.md",
+    "3. Logic on C# console/For Looping.md",
+    "3. Logic on C# console/Switch Case.md",
+    "2. Simple C# Console App/dotNet Array.md",
     "3. Logic on C# console/Csharp expression.md",
     "3. Logic on C# console/Code block.md"
   ]
