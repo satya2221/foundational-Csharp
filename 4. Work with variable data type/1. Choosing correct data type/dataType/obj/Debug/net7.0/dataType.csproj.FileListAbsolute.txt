@@ -1,0 +1,14 @@
+G:\onedrive\Learn Programming\2023 class\C# Dasar\4. Work with variable data type\1. Choose the correct data type\dataType\bin\Debug\net7.0\dataType.exe
+G:\onedrive\Learn Programming\2023 class\C# Dasar\4. Work with variable data type\1. Choose the correct data type\dataType\bin\Debug\net7.0\dataType.deps.json
+G:\onedrive\Learn Programming\2023 class\C# Dasar\4. Work with variable data type\1. Choose the correct data type\dataType\bin\Debug\net7.0\dataType.runtimeconfig.json
+G:\onedrive\Learn Programming\2023 class\C# Dasar\4. Work with variable data type\1. Choose the correct data type\dataType\bin\Debug\net7.0\dataType.dll
+G:\onedrive\Learn Programming\2023 class\C# Dasar\4. Work with variable data type\1. Choose the correct data type\dataType\bin\Debug\net7.0\dataType.pdb
+G:\onedrive\Learn Programming\2023 class\C# Dasar\4. Work with variable data type\1. Choose the correct data type\dataType\obj\Debug\net7.0\dataType.GeneratedMSBuildEditorConfig.editorconfig
+G:\onedrive\Learn Programming\2023 class\C# Dasar\4. Work with variable data type\1. Choose the correct data type\dataType\obj\Debug\net7.0\dataType.AssemblyInfoInputs.cache
+G:\onedrive\Learn Programming\2023 class\C# Dasar\4. Work with variable data type\1. Choose the correct data type\dataType\obj\Debug\net7.0\dataType.AssemblyInfo.cs
+G:\onedrive\Learn Programming\2023 class\C# Dasar\4. Work with variable data type\1. Choose the correct data type\dataType\obj\Debug\net7.0\dataType.csproj.CoreCompileInputs.cache
+G:\onedrive\Learn Programming\2023 class\C# Dasar\4. Work with variable data type\1. Choose the correct data type\dataType\obj\Debug\net7.0\dataType.dll
+G:\onedrive\Learn Programming\2023 class\C# Dasar\4. Work with variable data type\1. Choose the correct data type\dataType\obj\Debug\net7.0\refint\dataType.dll
+G:\onedrive\Learn Programming\2023 class\C# Dasar\4. Work with variable data type\1. Choose the correct data type\dataType\obj\Debug\net7.0\dataType.pdb
+G:\onedrive\Learn Programming\2023 class\C# Dasar\4. Work with variable data type\1. Choose the correct data type\dataType\obj\Debug\net7.0\dataType.genruntimeconfig.cache
+G:\onedrive\Learn Programming\2023 class\C# Dasar\4. Work with variable data type\1. Choose the correct data type\dataType\obj\Debug\net7.0\ref\dataType.dll
