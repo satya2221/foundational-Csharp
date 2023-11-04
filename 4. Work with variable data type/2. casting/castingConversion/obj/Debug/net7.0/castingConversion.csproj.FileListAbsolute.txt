@@ -1,0 +1,14 @@
+G:\onedrive\Learn Programming\2023 class\C# Dasar\4. Work with variable data type\2. casting\castingConversion\bin\Debug\net7.0\castingConversion.exe
+G:\onedrive\Learn Programming\2023 class\C# Dasar\4. Work with variable data type\2. casting\castingConversion\bin\Debug\net7.0\castingConversion.deps.json
+G:\onedrive\Learn Programming\2023 class\C# Dasar\4. Work with variable data type\2. casting\castingConversion\bin\Debug\net7.0\castingConversion.runtimeconfig.json
+G:\onedrive\Learn Programming\2023 class\C# Dasar\4. Work with variable data type\2. casting\castingConversion\bin\Debug\net7.0\castingConversion.dll
+G:\onedrive\Learn Programming\2023 class\C# Dasar\4. Work with variable data type\2. casting\castingConversion\bin\Debug\net7.0\castingConversion.pdb
+G:\onedrive\Learn Programming\2023 class\C# Dasar\4. Work with variable data type\2. casting\castingConversion\obj\Debug\net7.0\castingConversion.GeneratedMSBuildEditorConfig.editorconfig
+G:\onedrive\Learn Programming\2023 class\C# Dasar\4. Work with variable data type\2. casting\castingConversion\obj\Debug\net7.0\castingConversion.AssemblyInfoInputs.cache
+G:\onedrive\Learn Programming\2023 class\C# Dasar\4. Work with variable data type\2. casting\castingConversion\obj\Debug\net7.0\castingConversion.AssemblyInfo.cs
+G:\onedrive\Learn Programming\2023 class\C# Dasar\4. Work with variable data type\2. casting\castingConversion\obj\Debug\net7.0\castingConversion.csproj.CoreCompileInputs.cache
+G:\onedrive\Learn Programming\2023 class\C# Dasar\4. Work with variable data type\2. casting\castingConversion\obj\Debug\net7.0\castingConversion.dll
+G:\onedrive\Learn Programming\2023 class\C# Dasar\4. Work with variable data type\2. casting\castingConversion\obj\Debug\net7.0\refint\castingConversion.dll
+G:\onedrive\Learn Programming\2023 class\C# Dasar\4. Work with variable data type\2. casting\castingConversion\obj\Debug\net7.0\castingConversion.pdb
+G:\onedrive\Learn Programming\2023 class\C# Dasar\4. Work with variable data type\2. casting\castingConversion\obj\Debug\net7.0\castingConversion.genruntimeconfig.cache
+G:\onedrive\Learn Programming\2023 class\C# Dasar\4. Work with variable data type\2. casting\castingConversion\obj\Debug\net7.0\ref\castingConversion.dll

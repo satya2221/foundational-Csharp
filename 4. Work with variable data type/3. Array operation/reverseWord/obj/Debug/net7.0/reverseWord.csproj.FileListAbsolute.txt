@@ -1,0 +1,14 @@
+G:\onedrive\Learn Programming\2023 class\C# Dasar\4. Work with variable data type\3. Array operation\reverseWord\bin\Debug\net7.0\reverseWord.exe
+G:\onedrive\Learn Programming\2023 class\C# Dasar\4. Work with variable data type\3. Array operation\reverseWord\bin\Debug\net7.0\reverseWord.deps.json
+G:\onedrive\Learn Programming\2023 class\C# Dasar\4. Work with variable data type\3. Array operation\reverseWord\bin\Debug\net7.0\reverseWord.runtimeconfig.json
+G:\onedrive\Learn Programming\2023 class\C# Dasar\4. Work with variable data type\3. Array operation\reverseWord\bin\Debug\net7.0\reverseWord.dll
+G:\onedrive\Learn Programming\2023 class\C# Dasar\4. Work with variable data type\3. Array operation\reverseWord\bin\Debug\net7.0\reverseWord.pdb
+G:\onedrive\Learn Programming\2023 class\C# Dasar\4. Work with variable data type\3. Array operation\reverseWord\obj\Debug\net7.0\reverseWord.GeneratedMSBuildEditorConfig.editorconfig
+G:\onedrive\Learn Programming\2023 class\C# Dasar\4. Work with variable data type\3. Array operation\reverseWord\obj\Debug\net7.0\reverseWord.AssemblyInfoInputs.cache
+G:\onedrive\Learn Programming\2023 class\C# Dasar\4. Work with variable data type\3. Array operation\reverseWord\obj\Debug\net7.0\reverseWord.AssemblyInfo.cs
+G:\onedrive\Learn Programming\2023 class\C# Dasar\4. Work with variable data type\3. Array operation\reverseWord\obj\Debug\net7.0\reverseWord.csproj.CoreCompileInputs.cache
+G:\onedrive\Learn Programming\2023 class\C# Dasar\4. Work with variable data type\3. Array operation\reverseWord\obj\Debug\net7.0\reverseWord.dll
+G:\onedrive\Learn Programming\2023 class\C# Dasar\4. Work with variable data type\3. Array operation\reverseWord\obj\Debug\net7.0\refint\reverseWord.dll
+G:\onedrive\Learn Programming\2023 class\C# Dasar\4. Work with variable data type\3. Array operation\reverseWord\obj\Debug\net7.0\reverseWord.pdb
+G:\onedrive\Learn Programming\2023 class\C# Dasar\4. Work with variable data type\3. Array operation\reverseWord\obj\Debug\net7.0\reverseWord.genruntimeconfig.cache
+G:\onedrive\Learn Programming\2023 class\C# Dasar\4. Work with variable data type\3. Array operation\reverseWord\obj\Debug\net7.0\ref\reverseWord.dll

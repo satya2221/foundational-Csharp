@@ -1,0 +1,14 @@
+G:\onedrive\Learn Programming\2023 class\C# Dasar\4. Work with variable data type\3. Array operation\arrayMethod\bin\Debug\net7.0\arrayMethod.exe
+G:\onedrive\Learn Programming\2023 class\C# Dasar\4. Work with variable data type\3. Array operation\arrayMethod\bin\Debug\net7.0\arrayMethod.deps.json
+G:\onedrive\Learn Programming\2023 class\C# Dasar\4. Work with variable data type\3. Array operation\arrayMethod\bin\Debug\net7.0\arrayMethod.runtimeconfig.json
+G:\onedrive\Learn Programming\2023 class\C# Dasar\4. Work with variable data type\3. Array operation\arrayMethod\bin\Debug\net7.0\arrayMethod.dll
+G:\onedrive\Learn Programming\2023 class\C# Dasar\4. Work with variable data type\3. Array operation\arrayMethod\bin\Debug\net7.0\arrayMethod.pdb
+G:\onedrive\Learn Programming\2023 class\C# Dasar\4. Work with variable data type\3. Array operation\arrayMethod\obj\Debug\net7.0\arrayMethod.GeneratedMSBuildEditorConfig.editorconfig
+G:\onedrive\Learn Programming\2023 class\C# Dasar\4. Work with variable data type\3. Array operation\arrayMethod\obj\Debug\net7.0\arrayMethod.AssemblyInfoInputs.cache
+G:\onedrive\Learn Programming\2023 class\C# Dasar\4. Work with variable data type\3. Array operation\arrayMethod\obj\Debug\net7.0\arrayMethod.AssemblyInfo.cs
+G:\onedrive\Learn Programming\2023 class\C# Dasar\4. Work with variable data type\3. Array operation\arrayMethod\obj\Debug\net7.0\arrayMethod.csproj.CoreCompileInputs.cache
+G:\onedrive\Learn Programming\2023 class\C# Dasar\4. Work with variable data type\3. Array operation\arrayMethod\obj\Debug\net7.0\arrayMethod.dll
+G:\onedrive\Learn Programming\2023 class\C# Dasar\4. Work with variable data type\3. Array operation\arrayMethod\obj\Debug\net7.0\refint\arrayMethod.dll
+G:\onedrive\Learn Programming\2023 class\C# Dasar\4. Work with variable data type\3. Array operation\arrayMethod\obj\Debug\net7.0\arrayMethod.pdb
+G:\onedrive\Learn Programming\2023 class\C# Dasar\4. Work with variable data type\3. Array operation\arrayMethod\obj\Debug\net7.0\arrayMethod.genruntimeconfig.cache
+G:\onedrive\Learn Programming\2023 class\C# Dasar\4. Work with variable data type\3. Array operation\arrayMethod\obj\Debug\net7.0\ref\arrayMethod.dll

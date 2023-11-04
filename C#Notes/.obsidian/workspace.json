@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "728404b27cd8bd1a",
+            "id": "f1141a5fc9149ed0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,8 +18,31 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4dbce38283c93088",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4. Work with Variable/Array Method.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "58664c9d2de1df7b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Start .NET console.md",
+                "file": "4. Work with Variable/Array Method.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Start .NET console.md",
+                "file": "4. Work with Variable/Array Method.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Start .NET console.md"
+                "file": "4. Work with Variable/Array Method.md"
               }
             }
           }
@@ -146,12 +169,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "728404b27cd8bd1a",
+  "active": "4dbce38283c93088",
   "lastOpenFiles": [
+    "Start .NET console.md",
+    "4. Work with Variable/Array Method.md",
+    "4. Work with Variable/Convert Data Type.md",
+    "1. Get started C#/Csharp Data type.md",
+    "2. Simple C# Console App/dotNet Array.md",
+    "2. Simple C# Console App/Csharp Convention & Rule.md",
+    "1. Get started C.md",
+    "3. Logic on C.md",
+    "4. Work with Variable/Data Type.md",
     "3. Logic on C# console/do while.md",
     "3. Logic on C# console/For Looping.md",
     "3. Logic on C# console/Switch Case.md",
-    "2. Simple C# Console App/dotNet Array.md",
     "3. Logic on C# console/Csharp expression.md",
     "3. Logic on C# console/Code block.md"
   ]

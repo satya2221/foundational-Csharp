@@ -1,0 +1,14 @@
+G:\onedrive\Learn Programming\2023 class\C# Dasar\4. Work with variable data type\3. Array operation\checkCode\bin\Debug\net7.0\checkCode.exe
+G:\onedrive\Learn Programming\2023 class\C# Dasar\4. Work with variable data type\3. Array operation\checkCode\bin\Debug\net7.0\checkCode.deps.json
+G:\onedrive\Learn Programming\2023 class\C# Dasar\4. Work with variable data type\3. Array operation\checkCode\bin\Debug\net7.0\checkCode.runtimeconfig.json
+G:\onedrive\Learn Programming\2023 class\C# Dasar\4. Work with variable data type\3. Array operation\checkCode\bin\Debug\net7.0\checkCode.dll
+G:\onedrive\Learn Programming\2023 class\C# Dasar\4. Work with variable data type\3. Array operation\checkCode\bin\Debug\net7.0\checkCode.pdb
+G:\onedrive\Learn Programming\2023 class\C# Dasar\4. Work with variable data type\3. Array operation\checkCode\obj\Debug\net7.0\checkCode.GeneratedMSBuildEditorConfig.editorconfig
+G:\onedrive\Learn Programming\2023 class\C# Dasar\4. Work with variable data type\3. Array operation\checkCode\obj\Debug\net7.0\checkCode.AssemblyInfoInputs.cache
+G:\onedrive\Learn Programming\2023 class\C# Dasar\4. Work with variable data type\3. Array operation\checkCode\obj\Debug\net7.0\checkCode.AssemblyInfo.cs
+G:\onedrive\Learn Programming\2023 class\C# Dasar\4. Work with variable data type\3. Array operation\checkCode\obj\Debug\net7.0\checkCode.csproj.CoreCompileInputs.cache
+G:\onedrive\Learn Programming\2023 class\C# Dasar\4. Work with variable data type\3. Array operation\checkCode\obj\Debug\net7.0\checkCode.dll
+G:\onedrive\Learn Programming\2023 class\C# Dasar\4. Work with variable data type\3. Array operation\checkCode\obj\Debug\net7.0\refint\checkCode.dll
+G:\onedrive\Learn Programming\2023 class\C# Dasar\4. Work with variable data type\3. Array operation\checkCode\obj\Debug\net7.0\checkCode.pdb
+G:\onedrive\Learn Programming\2023 class\C# Dasar\4. Work with variable data type\3. Array operation\checkCode\obj\Debug\net7.0\checkCode.genruntimeconfig.cache
+G:\onedrive\Learn Programming\2023 class\C# Dasar\4. Work with variable data type\3. Array operation\checkCode\obj\Debug\net7.0\ref\checkCode.dll
