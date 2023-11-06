@@ -1,0 +1,14 @@
+G:\onedrive\Learn Programming\2023 class\C# Dasar\4. Work with variable data type\4. format alphanumeric\stringInterpolation\bin\Debug\net7.0\stringInterpolation.exe
+G:\onedrive\Learn Programming\2023 class\C# Dasar\4. Work with variable data type\4. format alphanumeric\stringInterpolation\bin\Debug\net7.0\stringInterpolation.deps.json
+G:\onedrive\Learn Programming\2023 class\C# Dasar\4. Work with variable data type\4. format alphanumeric\stringInterpolation\bin\Debug\net7.0\stringInterpolation.runtimeconfig.json
+G:\onedrive\Learn Programming\2023 class\C# Dasar\4. Work with variable data type\4. format alphanumeric\stringInterpolation\bin\Debug\net7.0\stringInterpolation.dll
+G:\onedrive\Learn Programming\2023 class\C# Dasar\4. Work with variable data type\4. format alphanumeric\stringInterpolation\bin\Debug\net7.0\stringInterpolation.pdb
+G:\onedrive\Learn Programming\2023 class\C# Dasar\4. Work with variable data type\4. format alphanumeric\stringInterpolation\obj\Debug\net7.0\stringInterpolation.GeneratedMSBuildEditorConfig.editorconfig
+G:\onedrive\Learn Programming\2023 class\C# Dasar\4. Work with variable data type\4. format alphanumeric\stringInterpolation\obj\Debug\net7.0\stringInterpolation.AssemblyInfoInputs.cache
+G:\onedrive\Learn Programming\2023 class\C# Dasar\4. Work with variable data type\4. format alphanumeric\stringInterpolation\obj\Debug\net7.0\stringInterpolation.AssemblyInfo.cs
+G:\onedrive\Learn Programming\2023 class\C# Dasar\4. Work with variable data type\4. format alphanumeric\stringInterpolation\obj\Debug\net7.0\stringInterpolation.csproj.CoreCompileInputs.cache
+G:\onedrive\Learn Programming\2023 class\C# Dasar\4. Work with variable data type\4. format alphanumeric\stringInterpolation\obj\Debug\net7.0\stringInterpolation.dll
+G:\onedrive\Learn Programming\2023 class\C# Dasar\4. Work with variable data type\4. format alphanumeric\stringInterpolation\obj\Debug\net7.0\refint\stringInterpolation.dll
+G:\onedrive\Learn Programming\2023 class\C# Dasar\4. Work with variable data type\4. format alphanumeric\stringInterpolation\obj\Debug\net7.0\stringInterpolation.pdb
+G:\onedrive\Learn Programming\2023 class\C# Dasar\4. Work with variable data type\4. format alphanumeric\stringInterpolation\obj\Debug\net7.0\stringInterpolation.genruntimeconfig.cache
+G:\onedrive\Learn Programming\2023 class\C# Dasar\4. Work with variable data type\4. format alphanumeric\stringInterpolation\obj\Debug\net7.0\ref\stringInterpolation.dll

@@ -1,0 +1,14 @@
+G:\onedrive\Learn Programming\2023 class\C# Dasar\4. Work with variable data type\5. string method\ExtractHTML\bin\Debug\net7.0\ExtractHTML.exe
+G:\onedrive\Learn Programming\2023 class\C# Dasar\4. Work with variable data type\5. string method\ExtractHTML\bin\Debug\net7.0\ExtractHTML.deps.json
+G:\onedrive\Learn Programming\2023 class\C# Dasar\4. Work with variable data type\5. string method\ExtractHTML\bin\Debug\net7.0\ExtractHTML.runtimeconfig.json
+G:\onedrive\Learn Programming\2023 class\C# Dasar\4. Work with variable data type\5. string method\ExtractHTML\bin\Debug\net7.0\ExtractHTML.dll
+G:\onedrive\Learn Programming\2023 class\C# Dasar\4. Work with variable data type\5. string method\ExtractHTML\bin\Debug\net7.0\ExtractHTML.pdb
+G:\onedrive\Learn Programming\2023 class\C# Dasar\4. Work with variable data type\5. string method\ExtractHTML\obj\Debug\net7.0\ExtractHTML.GeneratedMSBuildEditorConfig.editorconfig
+G:\onedrive\Learn Programming\2023 class\C# Dasar\4. Work with variable data type\5. string method\ExtractHTML\obj\Debug\net7.0\ExtractHTML.AssemblyInfoInputs.cache
+G:\onedrive\Learn Programming\2023 class\C# Dasar\4. Work with variable data type\5. string method\ExtractHTML\obj\Debug\net7.0\ExtractHTML.AssemblyInfo.cs
+G:\onedrive\Learn Programming\2023 class\C# Dasar\4. Work with variable data type\5. string method\ExtractHTML\obj\Debug\net7.0\ExtractHTML.csproj.CoreCompileInputs.cache
+G:\onedrive\Learn Programming\2023 class\C# Dasar\4. Work with variable data type\5. string method\ExtractHTML\obj\Debug\net7.0\ExtractHTML.dll
+G:\onedrive\Learn Programming\2023 class\C# Dasar\4. Work with variable data type\5. string method\ExtractHTML\obj\Debug\net7.0\refint\ExtractHTML.dll
+G:\onedrive\Learn Programming\2023 class\C# Dasar\4. Work with variable data type\5. string method\ExtractHTML\obj\Debug\net7.0\ExtractHTML.pdb
+G:\onedrive\Learn Programming\2023 class\C# Dasar\4. Work with variable data type\5. string method\ExtractHTML\obj\Debug\net7.0\ExtractHTML.genruntimeconfig.cache
+G:\onedrive\Learn Programming\2023 class\C# Dasar\4. Work with variable data type\5. string method\ExtractHTML\obj\Debug\net7.0\ref\ExtractHTML.dll
