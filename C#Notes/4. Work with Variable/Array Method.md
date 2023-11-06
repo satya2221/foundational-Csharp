@@ -1,4 +1,4 @@
-Array is a reference type in C# that has many helper method to perform the operation in array. 
+[[dotNet Array]] is a reference type in C# that has many helper method to perform the operation in array. 
 ## Sort & Reverse
 This is the simplest method that will sort an array. `Sort()` method is used for sorting array ascendingly while `Reverse()` is used for sorting array in descending manner. Here is the example of this 2 method in action
 ```C#
