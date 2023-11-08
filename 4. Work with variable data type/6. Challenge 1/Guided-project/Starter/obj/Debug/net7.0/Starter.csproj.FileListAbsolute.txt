@@ -1,0 +1,14 @@
+G:\onedrive\Learn Programming\2023 class\C# Dasar\4. Work with variable data type\6. Challenge 1\Guided-project\Starter\bin\Debug\net7.0\Starter.exe
+G:\onedrive\Learn Programming\2023 class\C# Dasar\4. Work with variable data type\6. Challenge 1\Guided-project\Starter\bin\Debug\net7.0\Starter.deps.json
+G:\onedrive\Learn Programming\2023 class\C# Dasar\4. Work with variable data type\6. Challenge 1\Guided-project\Starter\bin\Debug\net7.0\Starter.runtimeconfig.json
+G:\onedrive\Learn Programming\2023 class\C# Dasar\4. Work with variable data type\6. Challenge 1\Guided-project\Starter\bin\Debug\net7.0\Starter.dll
+G:\onedrive\Learn Programming\2023 class\C# Dasar\4. Work with variable data type\6. Challenge 1\Guided-project\Starter\bin\Debug\net7.0\Starter.pdb
+G:\onedrive\Learn Programming\2023 class\C# Dasar\4. Work with variable data type\6. Challenge 1\Guided-project\Starter\obj\Debug\net7.0\Starter.GeneratedMSBuildEditorConfig.editorconfig
+G:\onedrive\Learn Programming\2023 class\C# Dasar\4. Work with variable data type\6. Challenge 1\Guided-project\Starter\obj\Debug\net7.0\Starter.AssemblyInfoInputs.cache
+G:\onedrive\Learn Programming\2023 class\C# Dasar\4. Work with variable data type\6. Challenge 1\Guided-project\Starter\obj\Debug\net7.0\Starter.AssemblyInfo.cs
+G:\onedrive\Learn Programming\2023 class\C# Dasar\4. Work with variable data type\6. Challenge 1\Guided-project\Starter\obj\Debug\net7.0\Starter.csproj.CoreCompileInputs.cache
+G:\onedrive\Learn Programming\2023 class\C# Dasar\4. Work with variable data type\6. Challenge 1\Guided-project\Starter\obj\Debug\net7.0\Starter.dll
+G:\onedrive\Learn Programming\2023 class\C# Dasar\4. Work with variable data type\6. Challenge 1\Guided-project\Starter\obj\Debug\net7.0\refint\Starter.dll
+G:\onedrive\Learn Programming\2023 class\C# Dasar\4. Work with variable data type\6. Challenge 1\Guided-project\Starter\obj\Debug\net7.0\Starter.pdb
+G:\onedrive\Learn Programming\2023 class\C# Dasar\4. Work with variable data type\6. Challenge 1\Guided-project\Starter\obj\Debug\net7.0\Starter.genruntimeconfig.cache
+G:\onedrive\Learn Programming\2023 class\C# Dasar\4. Work with variable data type\6. Challenge 1\Guided-project\Starter\obj\Debug\net7.0\ref\Starter.dll
