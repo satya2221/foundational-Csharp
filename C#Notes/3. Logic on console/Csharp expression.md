@@ -1,4 +1,4 @@
-*Expression* is combination of value (literal / variable), operator, and methods that return a single value. A *statement* is a complete C# instruction that composed of one or more expression. Take a look to this `if` statement example
+ *Expression* is combination of value (literal / variable), operator, and methods that return a single value. A *statement* is a complete C# instruction that composed of one or more expression. Take a look to this `if` statement example
 ```C#
 if(myName == "Satya")
 	...
